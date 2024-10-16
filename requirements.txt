@@ -1,0 +1,8 @@
+numpy==1.26.4
+tensorflow==2.15.0
+netron==7.4.5
+tf2onnx==1.16.1
+scikit-learn==1.4.0
+skl2onnx==1.16.0
+torch==2.1.2
+onnxruntime==1.17.1

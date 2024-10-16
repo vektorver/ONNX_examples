@@ -1,0 +1,20 @@
+pytorch2.1.2:±
+3
+input
+weights/MatMul_output_0/MatMul"MatMul
+2
+/MatMul_output_0
+bias/Add_output_0/Add"Add
+*
+/Add_output_0output/Sigmoid"Sigmoid
+main_graph*1BweightsJ ßs*¿Tx]¿è»=1¿êèú¾¡a.¿xú©¿(–9>*BbiasJÇI‘¿áo¿Z!
+input
+
+
+batch_size
+b"
+output
+
+
+batch_size
+B
